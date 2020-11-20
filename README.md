@@ -9,7 +9,6 @@
 | eGPU | Nvidia GeForce RTX 2070 Super Max-Q 8GB (disabled with -wegnoegpu) |
 | Monitor | 15.6" Full HD 300Hz |
 | Sound Card |  |
-| Card reader |  |
 | Network Card | Killer 1650i (Intel AX201NGW) |
 
 #### Current status:
