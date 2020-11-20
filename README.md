@@ -6,7 +6,7 @@
 | RAM | 32GB DDR4 |
 | SSD | 2xNVMe |
 | Graphics Card | Intel UHD Graphics |
-| eGPU | Nvidia GeForce RTX 2070 Super Max-Q 8GB (disabled with -wegnoegpu  |
+| eGPU | Nvidia GeForce RTX 2070 Super Max-Q 8GB (disabled with -wegnoegpu) |
 | Monitor | 15.6" Full HD 300Hz |
 | Sound Card |  |
 | Card reader |  |
