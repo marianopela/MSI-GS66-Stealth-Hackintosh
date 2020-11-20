@@ -21,7 +21,7 @@ Working:
 - Brightness adjustment
 - Battery managment
 - Power managment (Non-native because of CFG Lock)
-- WiFi/BT (Intel drivers still in development)
+- WiFi/BT (Intel drivers still in development, not realiable)
 
 To be fixed:
 - Sleep/Wake
