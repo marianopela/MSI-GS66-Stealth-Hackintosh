@@ -20,13 +20,19 @@ Working:
 - USBs (apart from the Thunderbolt 3)
 - Brightness adjustment
 - Battery managment
-- Power managment (Non-native because of CFG Lock)
+- Power managment (Native with CFG Lock disabled in Advanced Bios)
 - WiFi/BT (Intel drivers still in development, not realiable)
 
 To be fixed:
+- Fans on all the time
 - Sleep/Wake
 - Ethernet
 - USBs still need to be mapped
+
+#### To enter the Advanced BIOS
+While in the BIOS, press F2, Left ALT, Right SHIFT, Right CTRL
+Now you can verify that DVMT Pre-Allocated is set to 64MB and DVMT Total Gfx Mem is set to Max
+Also, and most important, set CFG Lock to Disabled, to enable native PM (also you would probably get a KP without it, if using current version of the EFI)
 
 #### IMPORTANT
 
