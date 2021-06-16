@@ -1,5 +1,3 @@
-# If my work helped you, consider [buying me a coffee](paypal.me/marianopela)
-
 # MSI GS66 Stealth 10SFS-480IT Hackintosh
 
 | Specifications | Details |
